@@ -1,2 +1,2 @@
 // The page heading. site/index.html shows exactly this text.
-export const greeting = 'Hello from the ship fixture (hand trial)';
+export const greeting = 'Hello from the ship fixture';
